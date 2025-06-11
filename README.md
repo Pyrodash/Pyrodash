@@ -1,7 +1,7 @@
 <h2 align="center">
   $$\color[RGB]{254, 173, 188}\textbf{\large{《\enspace\textcolor{white}{♡}\enspace》}}$$
   <br />
-  $\color[RGB]{254, 173, 188}\textbf{\Large{\~{}}}$ &nbsp; hi! i'm ahmed &nbsp; $\color[RGB]{254, 173, 188}\textbf{\Large{\~{}}}$
+  $`\color[RGB]{254, 173, 188}\textbf{\Large{\~{}}}$ &nbsp; hi! i'm ahmed &nbsp; $\color[RGB]{254, 173, 188}\textbf{\Large{\~{}}}`$
   <br /><br />
 </h2>
 <h4 align="center">
